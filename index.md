@@ -24,3 +24,5 @@ Note that this page is an experiment and a work in progress. It may go
 away at any time if it turns out not to be useful.
 
 Hello
+
+![Red](http://dragundust.perso.sfr.fr/Red.png)
