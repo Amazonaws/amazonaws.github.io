@@ -23,6 +23,7 @@ pushes).
 Note that this page is an experiment and a work in progress. It may go
 away at any time if it turns out not to be useful.
 
-Hello my favorite game is minecraft
+Hello 
 
 ![Red](http://dragundust.perso.sfr.fr/Red.png)
+![Blue](http://dragundust.perso.sfr.fr/Blue.png)
